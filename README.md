@@ -8,7 +8,7 @@ turkmenoglubugra/turkmenoglubugra is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 - Text Similarity 
-  -1 Semantic text similarity repository which calculate similarity between texts using Word2vec, Doc2vec and MaLstm
+  - 1 Semantic text similarity repository which calculate similarity between texts using Word2vec, Doc2vec and MaLstm
 
 -Vaadin
   -1 A Vaadin 8 repository (With Compatibility For Vaadin 7)
