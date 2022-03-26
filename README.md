@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - Vaadin
-  - A Vaadin 8 repository (With Compatibility For Vaadin 7)
-  - A Vaadin repository to Vaadin file downloader seekers
+  - Vaadin 8 repository (With Compatibility For Vaadin 7)
+  - Vaadin repository to Vaadin file downloader seekers
   
 - Angular CRUD App 
-  - A Angular repository
-  - A Spring repository
+  - Angular repository
+  - Spring repository
