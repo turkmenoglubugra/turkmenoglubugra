@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turkmenoglubugra
-- 👀 I’m interested in software
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me bugrakaanturkmenoglu@gmail.com
 
