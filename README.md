@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
   - Angular Front-End
   - Spring Back-End
 
-- JavaMelody with Dark Theme
+- Java Monitoring
+  - JavaMelody with Dark Theme
   
 - Kafka Spring Boot Application 
   - Kafka Producer
