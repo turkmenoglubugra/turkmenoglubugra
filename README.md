@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 - JavaMelody with Dark Theme
   
-- Kafka Producer
-
-- Kafka Consumer
+- Kafka Spring Boot Application 
+  - Kafka Producer
+  - Kafka Consumer 
